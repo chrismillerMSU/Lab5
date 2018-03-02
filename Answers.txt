@@ -1,0 +1,8 @@
+1. A pull is when two different versions of a file are merged together.
+2.A fetch is a git command that pulls the file updates and branches from github to your local repository. 
+3.A clone is a copy of a repository put onto your machine.
+4. A push pushed the file updates and branches from your local repository to the github repository.
+5.A branch is basically a different save of a file, aka a different version that can later be meged with other versions.
+6.You should use a branch to preserve a master code that is bug free, so you can make changes to to file without 
+messing up what you already have. 
+7.git status show you what is ready to be commited and what is not staged to be commited.
